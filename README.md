@@ -3,3 +3,7 @@ Build an NLP-powered tool that allows stakeholders to ask questions like, “Wha
 
 ## App Link:
 https://sql-talk-ai-280048506091.us-central1.run.app/
+
+## Dataset 
+
+Generated used Faker Library
