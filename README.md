@@ -6,4 +6,4 @@ https://sql-talk-ai-280048506091.us-central1.run.app/
 
 ## Dataset 
 
-Generated used Faker Library
+Generated using Faker Library
