@@ -1,0 +1,1001 @@
+CustomerID,AgeGroup,Gender,State,City,FrequentFlyer
+C00001,65+,Female,New York,Rochester,No
+C00002,65+,Male,Arizona,Tucson,Yes
+C00003,18-24,Male,California,San Francisco,Yes
+C00004,55-64,Male,Georgia,Augusta,Yes
+C00005,35-44,Female,Oregon,Salem,No
+C00006,35-44,Male,Illinois,Naperville,Yes
+C00007,18-24,Male,Georgia,Augusta,Yes
+C00008,55-64,Female,Oregon,Portland,Yes
+C00009,45-54,Male,Texas,Houston,No
+C00010,45-54,Female,New York,Albany,No
+C00011,35-44,Female,Texas,Dallas,No
+C00012,25-34,Female,Georgia,Savannah,No
+C00013,65+,Female,Arizona,Phoenix,Yes
+C00014,25-34,Male,Texas,Austin,Yes
+C00015,55-64,Female,Oregon,Bend,Yes
+C00016,25-34,Female,California,Los Angeles,No
+C00017,18-24,Male,Oregon,Salem,No
+C00018,65+,Male,California,San Diego,No
+C00019,65+,Male,Texas,Houston,No
+C00020,45-54,Male,Georgia,Atlanta,Yes
+C00021,65+,Male,California,San Diego,Yes
+C00022,18-24,Male,California,San Diego,No
+C00023,18-24,Female,California,San Jose,Yes
+C00024,55-64,Female,Florida,Tampa,No
+C00025,45-54,Female,Texas,Austin,Yes
+C00026,45-54,Female,Georgia,Savannah,Yes
+C00027,55-64,Male,California,San Diego,Yes
+C00028,25-34,Male,Arizona,Flagstaff,Yes
+C00029,18-24,Female,California,Los Angeles,No
+C00030,18-24,Female,New York,Rochester,No
+C00031,65+,Male,Texas,San Antonio,No
+C00032,18-24,Female,Georgia,Atlanta,Yes
+C00033,35-44,Male,California,San Jose,No
+C00034,45-54,Female,California,San Jose,No
+C00035,35-44,Female,New York,Rochester,No
+C00036,65+,Male,Oregon,Eugene,No
+C00037,35-44,Male,Illinois,Aurora,Yes
+C00038,45-54,Male,California,San Francisco,No
+C00039,65+,Female,Florida,Tampa,Yes
+C00040,55-64,Male,Illinois,Springfield,Yes
+C00041,18-24,Female,Texas,Dallas,No
+C00042,55-64,Female,Georgia,Augusta,No
+C00043,18-24,Female,Illinois,Aurora,No
+C00044,45-54,Male,Arizona,Flagstaff,No
+C00045,55-64,Female,Texas,Houston,No
+C00046,18-24,Male,Florida,Tampa,Yes
+C00047,55-64,Male,New York,New York City,No
+C00048,45-54,Female,Illinois,Aurora,Yes
+C00049,55-64,Female,Georgia,Savannah,Yes
+C00050,25-34,Female,California,San Diego,No
+C00051,55-64,Male,California,San Francisco,No
+C00052,65+,Female,California,San Diego,No
+C00053,45-54,Female,Georgia,Savannah,No
+C00054,55-64,Male,Georgia,Atlanta,Yes
+C00055,35-44,Female,Florida,Tampa,Yes
+C00056,65+,Female,California,San Jose,Yes
+C00057,25-34,Male,Texas,Dallas,No
+C00058,18-24,Male,Georgia,Augusta,Yes
+C00059,25-34,Female,Arizona,Flagstaff,No
+C00060,45-54,Male,Florida,Miami,Yes
+C00061,18-24,Female,Florida,Orlando,No
+C00062,35-44,Female,Oregon,Bend,Yes
+C00063,65+,Male,New York,New York City,No
+C00064,65+,Female,Georgia,Atlanta,Yes
+C00065,18-24,Male,California,San Jose,No
+C00066,55-64,Female,Texas,Austin,No
+C00067,18-24,Male,Arizona,Flagstaff,No
+C00068,25-34,Female,Florida,Orlando,No
+C00069,55-64,Male,Arizona,Scottsdale,No
+C00070,45-54,Female,Arizona,Flagstaff,No
+C00071,65+,Female,Arizona,Flagstaff,No
+C00072,45-54,Female,Oregon,Salem,Yes
+C00073,18-24,Female,Oregon,Eugene,No
+C00074,65+,Female,Texas,Dallas,No
+C00075,45-54,Male,New York,New York City,Yes
+C00076,18-24,Female,Texas,San Antonio,No
+C00077,35-44,Male,New York,New York City,No
+C00078,65+,Female,New York,Rochester,No
+C00079,25-34,Male,Arizona,Phoenix,Yes
+C00080,45-54,Male,Georgia,Atlanta,No
+C00081,25-34,Male,Texas,Houston,Yes
+C00082,25-34,Male,Georgia,Augusta,Yes
+C00083,45-54,Female,New York,Buffalo,Yes
+C00084,35-44,Male,Oregon,Eugene,No
+C00085,35-44,Male,Georgia,Savannah,No
+C00086,35-44,Male,California,San Diego,Yes
+C00087,45-54,Female,California,San Jose,No
+C00088,65+,Male,Arizona,Tucson,Yes
+C00089,35-44,Female,Texas,Austin,Yes
+C00090,35-44,Female,Texas,Austin,Yes
+C00091,45-54,Female,New York,Albany,No
+C00092,18-24,Female,Texas,Houston,Yes
+C00093,45-54,Female,Oregon,Salem,Yes
+C00094,25-34,Male,California,Los Angeles,Yes
+C00095,25-34,Female,Georgia,Savannah,No
+C00096,65+,Male,Georgia,Columbus,No
+C00097,18-24,Male,Oregon,Portland,Yes
+C00098,25-34,Female,Texas,San Antonio,No
+C00099,55-64,Female,Illinois,Naperville,No
+C00100,45-54,Female,Florida,Orlando,Yes
+C00101,35-44,Male,Florida,Orlando,Yes
+C00102,55-64,Female,Arizona,Phoenix,No
+C00103,45-54,Male,Oregon,Salem,No
+C00104,45-54,Female,Arizona,Tucson,No
+C00105,18-24,Female,Arizona,Scottsdale,No
+C00106,25-34,Female,Arizona,Phoenix,No
+C00107,55-64,Female,Illinois,Springfield,Yes
+C00108,65+,Male,Oregon,Portland,Yes
+C00109,55-64,Female,Georgia,Savannah,Yes
+C00110,65+,Female,Oregon,Portland,Yes
+C00111,18-24,Male,Georgia,Atlanta,Yes
+C00112,55-64,Female,New York,Albany,Yes
+C00113,55-64,Male,California,San Jose,No
+C00114,35-44,Male,Texas,San Antonio,No
+C00115,35-44,Female,Texas,Dallas,No
+C00116,18-24,Female,Florida,Orlando,No
+C00117,65+,Male,California,San Francisco,No
+C00118,35-44,Male,Texas,San Antonio,No
+C00119,55-64,Female,Georgia,Atlanta,No
+C00120,25-34,Female,Texas,San Antonio,No
+C00121,18-24,Male,Illinois,Aurora,No
+C00122,25-34,Male,Oregon,Portland,No
+C00123,25-34,Female,Florida,Tampa,Yes
+C00124,35-44,Male,Texas,Houston,No
+C00125,25-34,Male,Florida,Miami,No
+C00126,45-54,Male,Illinois,Chicago,No
+C00127,25-34,Male,Texas,Houston,No
+C00128,55-64,Female,California,San Jose,Yes
+C00129,55-64,Female,Georgia,Augusta,No
+C00130,55-64,Male,Texas,Houston,No
+C00131,65+,Male,Oregon,Bend,No
+C00132,25-34,Male,Texas,Dallas,Yes
+C00133,65+,Male,Florida,Tampa,No
+C00134,65+,Male,Arizona,Tucson,Yes
+C00135,65+,Male,New York,Rochester,Yes
+C00136,65+,Male,Georgia,Columbus,No
+C00137,55-64,Female,New York,Albany,No
+C00138,65+,Male,Illinois,Chicago,Yes
+C00139,25-34,Male,New York,Rochester,No
+C00140,55-64,Female,New York,Albany,Yes
+C00141,18-24,Male,Texas,Houston,No
+C00142,55-64,Female,Texas,Austin,No
+C00143,25-34,Female,Oregon,Portland,No
+C00144,35-44,Female,Arizona,Tucson,Yes
+C00145,65+,Female,California,Los Angeles,No
+C00146,55-64,Female,Florida,Orlando,No
+C00147,18-24,Male,Georgia,Augusta,No
+C00148,18-24,Female,New York,Buffalo,No
+C00149,45-54,Female,Arizona,Phoenix,Yes
+C00150,55-64,Male,Georgia,Columbus,No
+C00151,35-44,Female,Oregon,Portland,No
+C00152,45-54,Female,Arizona,Flagstaff,No
+C00153,55-64,Female,Georgia,Atlanta,No
+C00154,65+,Male,California,San Francisco,Yes
+C00155,45-54,Female,Georgia,Atlanta,No
+C00156,55-64,Female,Florida,Tampa,No
+C00157,45-54,Female,Florida,Tampa,Yes
+C00158,18-24,Male,Arizona,Phoenix,No
+C00159,25-34,Male,Illinois,Chicago,Yes
+C00160,18-24,Male,Florida,Orlando,No
+C00161,25-34,Male,Texas,Austin,Yes
+C00162,35-44,Female,Arizona,Flagstaff,Yes
+C00163,45-54,Male,Illinois,Naperville,No
+C00164,45-54,Male,Florida,Tampa,No
+C00165,35-44,Female,Illinois,Chicago,Yes
+C00166,35-44,Female,Illinois,Aurora,Yes
+C00167,55-64,Female,New York,Rochester,Yes
+C00168,65+,Male,Texas,Houston,No
+C00169,65+,Female,Texas,Houston,Yes
+C00170,25-34,Female,Arizona,Tucson,Yes
+C00171,35-44,Female,New York,Albany,Yes
+C00172,45-54,Male,Texas,Austin,No
+C00173,55-64,Female,Illinois,Chicago,No
+C00174,25-34,Female,Illinois,Aurora,Yes
+C00175,25-34,Male,Oregon,Eugene,No
+C00176,25-34,Female,New York,Rochester,No
+C00177,45-54,Female,Florida,Jacksonville,Yes
+C00178,55-64,Female,Oregon,Portland,Yes
+C00179,18-24,Male,California,San Francisco,No
+C00180,45-54,Male,Texas,Austin,No
+C00181,25-34,Female,Oregon,Eugene,No
+C00182,45-54,Female,New York,Albany,No
+C00183,45-54,Female,New York,Buffalo,Yes
+C00184,35-44,Female,Illinois,Naperville,No
+C00185,35-44,Female,Texas,Austin,Yes
+C00186,65+,Female,Illinois,Springfield,Yes
+C00187,18-24,Female,California,San Francisco,Yes
+C00188,18-24,Female,Oregon,Salem,Yes
+C00189,45-54,Female,New York,Buffalo,No
+C00190,55-64,Female,New York,New York City,No
+C00191,35-44,Male,Oregon,Eugene,No
+C00192,35-44,Female,Oregon,Eugene,No
+C00193,55-64,Male,Illinois,Chicago,Yes
+C00194,18-24,Male,New York,New York City,Yes
+C00195,45-54,Female,California,San Francisco,No
+C00196,25-34,Male,Oregon,Bend,Yes
+C00197,18-24,Male,Texas,Austin,Yes
+C00198,45-54,Female,California,San Diego,No
+C00199,25-34,Female,Illinois,Naperville,No
+C00200,18-24,Female,Illinois,Naperville,Yes
+C00201,65+,Male,Arizona,Phoenix,No
+C00202,18-24,Female,Arizona,Tucson,Yes
+C00203,35-44,Male,Arizona,Tucson,No
+C00204,25-34,Female,New York,Rochester,No
+C00205,55-64,Male,Arizona,Tucson,No
+C00206,45-54,Male,Oregon,Portland,Yes
+C00207,65+,Female,Texas,Dallas,Yes
+C00208,65+,Female,New York,New York City,Yes
+C00209,25-34,Female,Arizona,Flagstaff,No
+C00210,55-64,Female,Georgia,Savannah,No
+C00211,45-54,Female,Texas,San Antonio,No
+C00212,65+,Female,California,San Diego,Yes
+C00213,35-44,Male,New York,Albany,No
+C00214,45-54,Female,Georgia,Augusta,Yes
+C00215,25-34,Female,California,San Francisco,No
+C00216,18-24,Male,Texas,San Antonio,No
+C00217,65+,Female,Texas,Dallas,No
+C00218,45-54,Female,Oregon,Portland,No
+C00219,65+,Male,Texas,Houston,No
+C00220,45-54,Female,Illinois,Aurora,Yes
+C00221,45-54,Male,Arizona,Tucson,Yes
+C00222,18-24,Female,Florida,Tampa,Yes
+C00223,18-24,Female,Texas,Houston,Yes
+C00224,65+,Male,Georgia,Savannah,No
+C00225,18-24,Male,New York,New York City,Yes
+C00226,45-54,Female,New York,New York City,Yes
+C00227,65+,Female,California,San Diego,No
+C00228,45-54,Female,Georgia,Columbus,Yes
+C00229,65+,Male,Illinois,Chicago,No
+C00230,18-24,Male,California,San Jose,No
+C00231,55-64,Female,Illinois,Aurora,Yes
+C00232,18-24,Female,Georgia,Savannah,No
+C00233,45-54,Male,Arizona,Tucson,Yes
+C00234,65+,Female,Illinois,Chicago,Yes
+C00235,18-24,Female,California,San Diego,Yes
+C00236,18-24,Female,Texas,Austin,Yes
+C00237,35-44,Female,Oregon,Eugene,Yes
+C00238,55-64,Male,New York,Albany,No
+C00239,55-64,Female,Florida,Miami,Yes
+C00240,35-44,Female,Georgia,Atlanta,Yes
+C00241,18-24,Female,California,San Diego,No
+C00242,65+,Male,Texas,Dallas,Yes
+C00243,25-34,Male,Arizona,Tucson,Yes
+C00244,55-64,Female,Illinois,Naperville,No
+C00245,45-54,Female,Illinois,Chicago,No
+C00246,55-64,Female,Arizona,Tucson,No
+C00247,55-64,Female,Florida,Miami,Yes
+C00248,18-24,Male,Illinois,Chicago,Yes
+C00249,25-34,Male,California,San Jose,No
+C00250,25-34,Male,Georgia,Atlanta,Yes
+C00251,65+,Female,California,San Francisco,Yes
+C00252,25-34,Female,Arizona,Phoenix,Yes
+C00253,35-44,Male,Illinois,Naperville,No
+C00254,25-34,Male,New York,Rochester,Yes
+C00255,35-44,Female,Oregon,Portland,Yes
+C00256,55-64,Male,Illinois,Aurora,Yes
+C00257,18-24,Female,Georgia,Augusta,Yes
+C00258,35-44,Female,Florida,Miami,No
+C00259,25-34,Male,Illinois,Springfield,No
+C00260,45-54,Male,California,Los Angeles,Yes
+C00261,35-44,Male,New York,Rochester,Yes
+C00262,25-34,Female,Georgia,Augusta,No
+C00263,18-24,Female,Florida,Jacksonville,Yes
+C00264,25-34,Male,New York,Rochester,No
+C00265,45-54,Male,Illinois,Naperville,Yes
+C00266,45-54,Male,New York,Rochester,Yes
+C00267,18-24,Male,Georgia,Atlanta,No
+C00268,55-64,Female,New York,New York City,No
+C00269,55-64,Female,Oregon,Bend,Yes
+C00270,65+,Male,Illinois,Chicago,No
+C00271,35-44,Male,Arizona,Phoenix,No
+C00272,65+,Female,Oregon,Bend,No
+C00273,55-64,Male,Illinois,Naperville,No
+C00274,18-24,Female,Arizona,Phoenix,No
+C00275,45-54,Female,Arizona,Phoenix,Yes
+C00276,18-24,Male,Georgia,Savannah,No
+C00277,45-54,Male,Florida,Orlando,Yes
+C00278,35-44,Male,New York,New York City,Yes
+C00279,18-24,Female,Illinois,Springfield,Yes
+C00280,45-54,Female,Florida,Orlando,Yes
+C00281,45-54,Female,Illinois,Naperville,No
+C00282,65+,Male,California,San Francisco,No
+C00283,65+,Male,Georgia,Augusta,Yes
+C00284,55-64,Female,California,Los Angeles,No
+C00285,18-24,Female,Texas,San Antonio,No
+C00286,55-64,Male,New York,Buffalo,No
+C00287,35-44,Female,Arizona,Scottsdale,No
+C00288,35-44,Male,Georgia,Columbus,No
+C00289,25-34,Male,Georgia,Savannah,Yes
+C00290,45-54,Male,California,San Francisco,Yes
+C00291,18-24,Male,Florida,Tampa,Yes
+C00292,18-24,Female,Florida,Orlando,No
+C00293,35-44,Male,Arizona,Phoenix,No
+C00294,25-34,Male,Illinois,Naperville,No
+C00295,18-24,Male,California,San Diego,Yes
+C00296,35-44,Male,Oregon,Eugene,No
+C00297,65+,Female,California,San Diego,Yes
+C00298,45-54,Male,New York,New York City,Yes
+C00299,55-64,Female,Illinois,Aurora,Yes
+C00300,55-64,Male,Florida,Miami,Yes
+C00301,65+,Male,Texas,Austin,No
+C00302,45-54,Male,Illinois,Aurora,No
+C00303,25-34,Female,California,San Diego,Yes
+C00304,45-54,Male,Texas,Houston,No
+C00305,45-54,Male,Arizona,Scottsdale,No
+C00306,45-54,Male,California,Los Angeles,Yes
+C00307,65+,Male,Georgia,Atlanta,Yes
+C00308,35-44,Male,New York,Rochester,Yes
+C00309,65+,Female,Texas,Dallas,Yes
+C00310,65+,Male,New York,New York City,Yes
+C00311,35-44,Female,Texas,Houston,No
+C00312,45-54,Female,Oregon,Portland,Yes
+C00313,55-64,Female,Georgia,Columbus,Yes
+C00314,55-64,Female,Illinois,Chicago,Yes
+C00315,35-44,Female,Illinois,Aurora,Yes
+C00316,65+,Male,Oregon,Portland,Yes
+C00317,65+,Female,Georgia,Augusta,Yes
+C00318,18-24,Male,Illinois,Chicago,Yes
+C00319,55-64,Female,Florida,Orlando,No
+C00320,65+,Male,Florida,Tampa,Yes
+C00321,45-54,Female,Florida,Jacksonville,No
+C00322,25-34,Female,California,San Francisco,No
+C00323,55-64,Male,California,San Diego,No
+C00324,18-24,Female,Oregon,Eugene,Yes
+C00325,35-44,Female,California,San Francisco,Yes
+C00326,35-44,Female,Arizona,Scottsdale,No
+C00327,25-34,Male,Texas,Houston,Yes
+C00328,55-64,Female,Texas,Dallas,Yes
+C00329,55-64,Male,New York,Rochester,No
+C00330,25-34,Female,Oregon,Salem,No
+C00331,18-24,Male,Illinois,Chicago,Yes
+C00332,35-44,Female,Oregon,Salem,Yes
+C00333,55-64,Male,Texas,Austin,Yes
+C00334,18-24,Female,Texas,Austin,No
+C00335,65+,Female,Illinois,Naperville,No
+C00336,18-24,Female,Illinois,Chicago,No
+C00337,25-34,Female,New York,Buffalo,No
+C00338,55-64,Male,California,Los Angeles,Yes
+C00339,35-44,Male,Oregon,Bend,Yes
+C00340,45-54,Male,California,San Diego,No
+C00341,65+,Female,Florida,Jacksonville,No
+C00342,18-24,Female,Illinois,Springfield,No
+C00343,18-24,Female,New York,Albany,No
+C00344,25-34,Female,Georgia,Savannah,Yes
+C00345,55-64,Female,Arizona,Scottsdale,No
+C00346,45-54,Female,Texas,Houston,No
+C00347,45-54,Male,Arizona,Tucson,No
+C00348,45-54,Male,Arizona,Flagstaff,No
+C00349,45-54,Female,California,San Jose,Yes
+C00350,55-64,Male,Florida,Miami,Yes
+C00351,25-34,Male,Oregon,Eugene,Yes
+C00352,25-34,Female,Illinois,Springfield,No
+C00353,55-64,Male,Arizona,Flagstaff,Yes
+C00354,65+,Female,Florida,Orlando,No
+C00355,45-54,Female,Illinois,Naperville,No
+C00356,65+,Female,Illinois,Aurora,No
+C00357,55-64,Male,Oregon,Portland,Yes
+C00358,45-54,Female,Illinois,Chicago,No
+C00359,45-54,Male,Georgia,Augusta,No
+C00360,25-34,Female,Florida,Jacksonville,Yes
+C00361,35-44,Female,Texas,Houston,Yes
+C00362,18-24,Male,Texas,Houston,No
+C00363,25-34,Female,Georgia,Augusta,No
+C00364,35-44,Male,Arizona,Flagstaff,No
+C00365,55-64,Male,New York,New York City,Yes
+C00366,18-24,Female,Texas,San Antonio,Yes
+C00367,18-24,Female,Georgia,Columbus,No
+C00368,55-64,Male,Florida,Miami,No
+C00369,55-64,Male,California,Los Angeles,Yes
+C00370,18-24,Female,Texas,San Antonio,No
+C00371,18-24,Female,Texas,San Antonio,No
+C00372,25-34,Female,California,San Jose,Yes
+C00373,25-34,Female,Illinois,Naperville,Yes
+C00374,35-44,Male,Illinois,Springfield,Yes
+C00375,55-64,Male,California,Los Angeles,Yes
+C00376,35-44,Male,California,San Jose,Yes
+C00377,45-54,Female,Florida,Jacksonville,Yes
+C00378,25-34,Female,New York,Rochester,Yes
+C00379,18-24,Female,Illinois,Springfield,No
+C00380,25-34,Female,Illinois,Naperville,No
+C00381,65+,Male,Florida,Miami,Yes
+C00382,65+,Male,Arizona,Scottsdale,Yes
+C00383,45-54,Female,Illinois,Chicago,Yes
+C00384,65+,Female,Illinois,Aurora,Yes
+C00385,65+,Male,Arizona,Scottsdale,No
+C00386,35-44,Male,Arizona,Flagstaff,No
+C00387,55-64,Female,Florida,Jacksonville,Yes
+C00388,25-34,Female,Arizona,Flagstaff,No
+C00389,25-34,Female,Georgia,Atlanta,Yes
+C00390,35-44,Male,Illinois,Chicago,No
+C00391,25-34,Female,Georgia,Savannah,Yes
+C00392,55-64,Male,Florida,Tampa,No
+C00393,25-34,Female,California,San Diego,No
+C00394,25-34,Female,Illinois,Springfield,No
+C00395,35-44,Male,Texas,Austin,Yes
+C00396,65+,Male,Arizona,Tucson,No
+C00397,18-24,Male,Texas,Austin,Yes
+C00398,18-24,Male,Georgia,Savannah,Yes
+C00399,35-44,Female,Arizona,Flagstaff,Yes
+C00400,55-64,Female,New York,Buffalo,No
+C00401,18-24,Female,California,San Francisco,Yes
+C00402,45-54,Female,Texas,Austin,Yes
+C00403,45-54,Female,Georgia,Augusta,Yes
+C00404,18-24,Male,Florida,Orlando,No
+C00405,55-64,Female,Illinois,Chicago,Yes
+C00406,25-34,Female,Oregon,Portland,Yes
+C00407,18-24,Male,Arizona,Tucson,Yes
+C00408,65+,Female,Texas,Houston,Yes
+C00409,35-44,Male,New York,New York City,No
+C00410,35-44,Male,California,San Francisco,Yes
+C00411,35-44,Female,Oregon,Eugene,No
+C00412,25-34,Female,Texas,Houston,No
+C00413,35-44,Male,Texas,Houston,Yes
+C00414,25-34,Female,Oregon,Salem,Yes
+C00415,65+,Female,Illinois,Chicago,No
+C00416,25-34,Female,Oregon,Eugene,No
+C00417,18-24,Male,Georgia,Atlanta,No
+C00418,55-64,Male,California,San Jose,Yes
+C00419,35-44,Male,Florida,Tampa,Yes
+C00420,55-64,Female,Texas,San Antonio,No
+C00421,25-34,Male,Illinois,Springfield,No
+C00422,18-24,Male,Oregon,Salem,Yes
+C00423,35-44,Male,Texas,Houston,Yes
+C00424,18-24,Male,California,Los Angeles,No
+C00425,18-24,Female,Illinois,Chicago,Yes
+C00426,35-44,Male,Texas,Dallas,No
+C00427,35-44,Female,New York,Albany,Yes
+C00428,55-64,Male,California,San Diego,No
+C00429,45-54,Female,Florida,Orlando,Yes
+C00430,35-44,Male,California,San Jose,Yes
+C00431,45-54,Male,Georgia,Atlanta,No
+C00432,35-44,Female,Oregon,Portland,No
+C00433,18-24,Male,Georgia,Columbus,Yes
+C00434,35-44,Male,Arizona,Phoenix,No
+C00435,45-54,Female,Illinois,Springfield,No
+C00436,25-34,Female,New York,New York City,No
+C00437,65+,Female,New York,Rochester,No
+C00438,55-64,Female,Texas,Houston,Yes
+C00439,55-64,Female,Florida,Orlando,Yes
+C00440,45-54,Male,Georgia,Atlanta,No
+C00441,25-34,Female,Texas,Houston,No
+C00442,65+,Female,Florida,Miami,Yes
+C00443,55-64,Female,Texas,Houston,Yes
+C00444,25-34,Female,California,San Francisco,No
+C00445,35-44,Male,Georgia,Columbus,No
+C00446,65+,Female,Texas,Houston,No
+C00447,18-24,Male,Texas,Austin,No
+C00448,55-64,Female,New York,Buffalo,No
+C00449,25-34,Female,Texas,Houston,Yes
+C00450,35-44,Female,Georgia,Columbus,No
+C00451,65+,Female,Texas,San Antonio,No
+C00452,65+,Male,Texas,Austin,Yes
+C00453,45-54,Female,New York,Rochester,No
+C00454,25-34,Female,Arizona,Tucson,Yes
+C00455,65+,Male,Illinois,Chicago,No
+C00456,65+,Male,Illinois,Chicago,Yes
+C00457,65+,Female,Illinois,Naperville,Yes
+C00458,25-34,Male,Oregon,Salem,No
+C00459,55-64,Female,Oregon,Salem,No
+C00460,35-44,Female,Georgia,Atlanta,No
+C00461,25-34,Female,Georgia,Columbus,No
+C00462,35-44,Male,Arizona,Phoenix,Yes
+C00463,45-54,Female,New York,Albany,No
+C00464,65+,Female,California,San Jose,Yes
+C00465,55-64,Male,Arizona,Tucson,Yes
+C00466,45-54,Female,Florida,Jacksonville,Yes
+C00467,45-54,Male,Georgia,Columbus,Yes
+C00468,45-54,Male,New York,Albany,No
+C00469,55-64,Male,Texas,Austin,No
+C00470,55-64,Male,Georgia,Atlanta,Yes
+C00471,45-54,Male,Arizona,Flagstaff,No
+C00472,25-34,Female,Florida,Miami,Yes
+C00473,45-54,Male,Oregon,Eugene,Yes
+C00474,45-54,Female,Illinois,Springfield,Yes
+C00475,55-64,Female,Texas,Houston,No
+C00476,25-34,Female,Arizona,Phoenix,Yes
+C00477,35-44,Female,Texas,Houston,Yes
+C00478,55-64,Male,Texas,Austin,Yes
+C00479,45-54,Female,Texas,Houston,Yes
+C00480,35-44,Female,New York,Albany,Yes
+C00481,45-54,Female,Illinois,Springfield,No
+C00482,45-54,Female,New York,Albany,Yes
+C00483,55-64,Male,Georgia,Savannah,Yes
+C00484,18-24,Female,Oregon,Portland,No
+C00485,55-64,Female,Florida,Tampa,Yes
+C00486,45-54,Female,Texas,Austin,No
+C00487,25-34,Male,Georgia,Savannah,Yes
+C00488,65+,Male,Georgia,Augusta,No
+C00489,35-44,Female,California,San Jose,No
+C00490,55-64,Female,Texas,Houston,No
+C00491,18-24,Female,Oregon,Portland,Yes
+C00492,65+,Male,Texas,San Antonio,Yes
+C00493,35-44,Female,Texas,Dallas,Yes
+C00494,65+,Male,Oregon,Portland,Yes
+C00495,18-24,Male,Oregon,Bend,Yes
+C00496,45-54,Male,Oregon,Salem,No
+C00497,35-44,Male,California,Los Angeles,No
+C00498,65+,Male,Arizona,Scottsdale,No
+C00499,18-24,Female,Illinois,Aurora,Yes
+C00500,35-44,Male,Arizona,Tucson,Yes
+C00501,45-54,Male,Illinois,Aurora,Yes
+C00502,55-64,Male,Texas,Dallas,Yes
+C00503,65+,Male,Oregon,Eugene,No
+C00504,45-54,Male,Illinois,Chicago,Yes
+C00505,35-44,Female,Georgia,Columbus,No
+C00506,55-64,Female,Illinois,Aurora,Yes
+C00507,45-54,Female,Georgia,Atlanta,Yes
+C00508,55-64,Male,Georgia,Atlanta,Yes
+C00509,45-54,Male,New York,New York City,Yes
+C00510,65+,Male,Illinois,Chicago,Yes
+C00511,45-54,Female,Georgia,Augusta,Yes
+C00512,55-64,Male,California,San Jose,Yes
+C00513,55-64,Male,Illinois,Chicago,Yes
+C00514,25-34,Male,Illinois,Springfield,Yes
+C00515,25-34,Male,Oregon,Eugene,No
+C00516,35-44,Female,Illinois,Springfield,No
+C00517,18-24,Female,California,Los Angeles,Yes
+C00518,25-34,Female,California,San Jose,No
+C00519,65+,Male,Florida,Tampa,Yes
+C00520,25-34,Female,California,San Francisco,Yes
+C00521,18-24,Female,New York,Albany,No
+C00522,35-44,Female,Oregon,Portland,Yes
+C00523,55-64,Male,Arizona,Flagstaff,Yes
+C00524,55-64,Male,Arizona,Tucson,No
+C00525,25-34,Female,Oregon,Portland,Yes
+C00526,25-34,Female,California,Los Angeles,Yes
+C00527,18-24,Female,New York,Albany,Yes
+C00528,35-44,Male,Georgia,Columbus,Yes
+C00529,55-64,Female,Texas,San Antonio,Yes
+C00530,25-34,Male,California,San Diego,Yes
+C00531,25-34,Male,Oregon,Salem,Yes
+C00532,45-54,Female,Oregon,Bend,Yes
+C00533,18-24,Male,Georgia,Columbus,No
+C00534,35-44,Female,Oregon,Bend,No
+C00535,25-34,Female,Illinois,Chicago,No
+C00536,55-64,Female,Arizona,Phoenix,Yes
+C00537,55-64,Male,New York,Buffalo,Yes
+C00538,45-54,Female,California,Los Angeles,Yes
+C00539,65+,Male,California,San Francisco,Yes
+C00540,65+,Female,Georgia,Columbus,No
+C00541,35-44,Female,Illinois,Naperville,Yes
+C00542,35-44,Female,Arizona,Phoenix,Yes
+C00543,25-34,Male,Arizona,Scottsdale,Yes
+C00544,65+,Male,Texas,Dallas,No
+C00545,45-54,Female,Florida,Tampa,No
+C00546,25-34,Female,Oregon,Salem,Yes
+C00547,55-64,Female,New York,Buffalo,Yes
+C00548,18-24,Male,Arizona,Flagstaff,No
+C00549,45-54,Male,Florida,Orlando,Yes
+C00550,65+,Female,Texas,Houston,No
+C00551,55-64,Female,Oregon,Portland,Yes
+C00552,45-54,Male,Illinois,Aurora,No
+C00553,35-44,Female,Oregon,Bend,No
+C00554,25-34,Male,Texas,Dallas,No
+C00555,35-44,Male,Florida,Tampa,Yes
+C00556,65+,Male,New York,Rochester,Yes
+C00557,55-64,Male,Oregon,Portland,No
+C00558,65+,Male,Texas,Austin,No
+C00559,18-24,Male,Georgia,Savannah,Yes
+C00560,55-64,Male,Texas,San Antonio,No
+C00561,35-44,Female,Arizona,Tucson,No
+C00562,55-64,Male,Texas,Austin,No
+C00563,35-44,Female,Texas,Austin,No
+C00564,25-34,Male,Oregon,Portland,No
+C00565,55-64,Male,Arizona,Tucson,No
+C00566,35-44,Male,Illinois,Chicago,Yes
+C00567,25-34,Male,Oregon,Bend,No
+C00568,65+,Male,New York,Rochester,Yes
+C00569,55-64,Female,Illinois,Springfield,No
+C00570,18-24,Male,Texas,Austin,No
+C00571,35-44,Female,Texas,Houston,No
+C00572,55-64,Male,Florida,Orlando,No
+C00573,25-34,Male,New York,Rochester,No
+C00574,25-34,Male,Texas,Austin,No
+C00575,45-54,Female,Florida,Orlando,No
+C00576,18-24,Female,Oregon,Bend,Yes
+C00577,65+,Male,Florida,Orlando,No
+C00578,65+,Female,Florida,Tampa,No
+C00579,45-54,Female,Georgia,Augusta,No
+C00580,25-34,Female,Texas,Austin,Yes
+C00581,55-64,Female,Arizona,Flagstaff,Yes
+C00582,35-44,Male,New York,Rochester,Yes
+C00583,65+,Female,Illinois,Chicago,No
+C00584,65+,Female,Arizona,Phoenix,Yes
+C00585,18-24,Female,California,Los Angeles,Yes
+C00586,25-34,Male,Arizona,Phoenix,Yes
+C00587,55-64,Male,Georgia,Augusta,No
+C00588,35-44,Female,California,San Jose,Yes
+C00589,18-24,Male,Oregon,Salem,No
+C00590,55-64,Male,California,San Jose,Yes
+C00591,35-44,Male,Florida,Jacksonville,Yes
+C00592,35-44,Female,Florida,Orlando,Yes
+C00593,25-34,Female,Oregon,Bend,Yes
+C00594,65+,Male,Illinois,Springfield,Yes
+C00595,55-64,Male,Oregon,Portland,Yes
+C00596,25-34,Male,California,San Diego,No
+C00597,55-64,Female,Florida,Orlando,Yes
+C00598,45-54,Female,New York,Rochester,Yes
+C00599,25-34,Male,Florida,Tampa,Yes
+C00600,65+,Female,Georgia,Savannah,Yes
+C00601,18-24,Male,Arizona,Tucson,No
+C00602,55-64,Male,Florida,Jacksonville,Yes
+C00603,65+,Male,Oregon,Salem,Yes
+C00604,45-54,Female,Arizona,Phoenix,Yes
+C00605,25-34,Female,California,San Jose,No
+C00606,55-64,Female,New York,Buffalo,Yes
+C00607,55-64,Female,New York,Albany,Yes
+C00608,55-64,Female,Oregon,Salem,No
+C00609,55-64,Female,Arizona,Flagstaff,No
+C00610,25-34,Female,Illinois,Springfield,Yes
+C00611,45-54,Female,Illinois,Aurora,No
+C00612,55-64,Male,Georgia,Columbus,No
+C00613,18-24,Male,Florida,Jacksonville,No
+C00614,65+,Male,Illinois,Chicago,Yes
+C00615,65+,Male,Georgia,Atlanta,Yes
+C00616,45-54,Male,New York,Albany,Yes
+C00617,65+,Female,Oregon,Salem,Yes
+C00618,18-24,Female,Arizona,Scottsdale,Yes
+C00619,35-44,Female,Georgia,Atlanta,Yes
+C00620,55-64,Male,New York,Buffalo,Yes
+C00621,25-34,Female,Illinois,Springfield,No
+C00622,18-24,Female,Texas,San Antonio,No
+C00623,35-44,Female,New York,New York City,Yes
+C00624,45-54,Male,California,San Francisco,Yes
+C00625,65+,Male,Arizona,Phoenix,Yes
+C00626,45-54,Female,Texas,Austin,No
+C00627,18-24,Male,Arizona,Flagstaff,Yes
+C00628,45-54,Male,Georgia,Columbus,No
+C00629,18-24,Male,California,San Diego,No
+C00630,25-34,Male,Arizona,Tucson,No
+C00631,65+,Female,Arizona,Scottsdale,Yes
+C00632,18-24,Female,California,San Francisco,No
+C00633,25-34,Male,California,San Diego,No
+C00634,35-44,Female,Florida,Jacksonville,No
+C00635,18-24,Male,Oregon,Bend,No
+C00636,18-24,Female,Georgia,Savannah,Yes
+C00637,25-34,Female,Illinois,Aurora,No
+C00638,25-34,Male,California,San Jose,No
+C00639,18-24,Female,Arizona,Flagstaff,Yes
+C00640,25-34,Male,Georgia,Columbus,No
+C00641,45-54,Male,Texas,Dallas,Yes
+C00642,25-34,Female,Texas,San Antonio,No
+C00643,25-34,Female,Illinois,Chicago,No
+C00644,65+,Male,Illinois,Naperville,Yes
+C00645,65+,Male,New York,New York City,No
+C00646,65+,Male,Texas,Dallas,No
+C00647,35-44,Male,California,San Diego,Yes
+C00648,45-54,Female,Oregon,Salem,Yes
+C00649,45-54,Male,Florida,Orlando,Yes
+C00650,65+,Male,Texas,Dallas,Yes
+C00651,55-64,Female,Illinois,Aurora,No
+C00652,25-34,Male,Oregon,Salem,No
+C00653,55-64,Female,Texas,Houston,Yes
+C00654,25-34,Female,Georgia,Augusta,No
+C00655,65+,Female,Florida,Orlando,Yes
+C00656,35-44,Male,Arizona,Flagstaff,Yes
+C00657,18-24,Male,Florida,Tampa,No
+C00658,45-54,Male,New York,New York City,No
+C00659,45-54,Male,New York,Buffalo,No
+C00660,18-24,Male,California,San Jose,Yes
+C00661,25-34,Female,Georgia,Augusta,Yes
+C00662,45-54,Male,Florida,Jacksonville,Yes
+C00663,65+,Male,Florida,Tampa,No
+C00664,55-64,Female,Georgia,Savannah,Yes
+C00665,35-44,Male,Texas,San Antonio,No
+C00666,25-34,Male,California,Los Angeles,Yes
+C00667,55-64,Female,Arizona,Scottsdale,No
+C00668,55-64,Female,California,San Diego,Yes
+C00669,55-64,Male,Florida,Jacksonville,No
+C00670,35-44,Female,Georgia,Savannah,Yes
+C00671,18-24,Female,California,San Diego,No
+C00672,55-64,Female,New York,New York City,No
+C00673,18-24,Female,Florida,Jacksonville,Yes
+C00674,45-54,Female,Illinois,Chicago,No
+C00675,35-44,Male,Oregon,Bend,No
+C00676,45-54,Female,Florida,Miami,No
+C00677,25-34,Female,New York,New York City,No
+C00678,25-34,Male,Illinois,Chicago,Yes
+C00679,45-54,Female,Florida,Jacksonville,Yes
+C00680,55-64,Female,Georgia,Atlanta,Yes
+C00681,65+,Male,Oregon,Bend,Yes
+C00682,35-44,Male,Georgia,Atlanta,Yes
+C00683,25-34,Male,Georgia,Columbus,Yes
+C00684,35-44,Female,Oregon,Eugene,No
+C00685,35-44,Female,Georgia,Atlanta,No
+C00686,35-44,Female,Florida,Tampa,No
+C00687,18-24,Female,New York,Albany,Yes
+C00688,25-34,Female,Oregon,Portland,Yes
+C00689,55-64,Male,California,San Francisco,No
+C00690,65+,Female,Texas,San Antonio,No
+C00691,45-54,Male,Florida,Tampa,No
+C00692,35-44,Male,Arizona,Scottsdale,Yes
+C00693,65+,Male,New York,Rochester,Yes
+C00694,45-54,Female,Arizona,Tucson,Yes
+C00695,45-54,Male,Arizona,Phoenix,No
+C00696,18-24,Female,California,San Jose,Yes
+C00697,65+,Male,Texas,Austin,Yes
+C00698,65+,Male,Arizona,Tucson,No
+C00699,55-64,Male,Illinois,Springfield,Yes
+C00700,18-24,Male,Illinois,Aurora,Yes
+C00701,18-24,Female,Arizona,Tucson,No
+C00702,35-44,Female,Illinois,Springfield,Yes
+C00703,65+,Male,California,Los Angeles,Yes
+C00704,55-64,Male,California,San Jose,No
+C00705,35-44,Male,Arizona,Scottsdale,No
+C00706,25-34,Male,Oregon,Bend,Yes
+C00707,65+,Male,New York,Buffalo,Yes
+C00708,25-34,Female,New York,Buffalo,No
+C00709,18-24,Female,Arizona,Phoenix,No
+C00710,55-64,Female,Illinois,Chicago,Yes
+C00711,55-64,Male,Georgia,Atlanta,No
+C00712,45-54,Female,Illinois,Naperville,Yes
+C00713,25-34,Male,Illinois,Aurora,No
+C00714,45-54,Female,New York,Buffalo,No
+C00715,55-64,Male,Texas,Austin,No
+C00716,35-44,Male,Georgia,Savannah,Yes
+C00717,25-34,Male,Georgia,Columbus,Yes
+C00718,25-34,Male,New York,Buffalo,Yes
+C00719,18-24,Male,California,Los Angeles,No
+C00720,45-54,Female,Georgia,Augusta,Yes
+C00721,45-54,Female,California,San Diego,No
+C00722,25-34,Female,Florida,Orlando,Yes
+C00723,18-24,Female,New York,Buffalo,No
+C00724,25-34,Female,California,San Jose,Yes
+C00725,45-54,Female,Oregon,Eugene,Yes
+C00726,55-64,Male,Illinois,Aurora,Yes
+C00727,35-44,Female,California,San Francisco,Yes
+C00728,35-44,Female,California,San Diego,No
+C00729,65+,Male,Texas,Austin,No
+C00730,35-44,Female,New York,New York City,Yes
+C00731,65+,Female,Texas,Austin,Yes
+C00732,45-54,Female,Illinois,Chicago,No
+C00733,65+,Male,Texas,Dallas,No
+C00734,18-24,Male,Florida,Jacksonville,Yes
+C00735,65+,Male,Florida,Tampa,Yes
+C00736,18-24,Female,New York,Rochester,Yes
+C00737,35-44,Male,Illinois,Naperville,No
+C00738,55-64,Male,California,San Diego,Yes
+C00739,35-44,Female,Oregon,Salem,No
+C00740,65+,Female,Illinois,Chicago,No
+C00741,45-54,Male,Texas,Austin,No
+C00742,45-54,Female,California,San Francisco,No
+C00743,65+,Female,Oregon,Eugene,Yes
+C00744,45-54,Male,Florida,Miami,Yes
+C00745,35-44,Female,Georgia,Augusta,No
+C00746,18-24,Male,Georgia,Atlanta,No
+C00747,65+,Male,California,Los Angeles,No
+C00748,45-54,Male,California,Los Angeles,No
+C00749,65+,Male,Georgia,Atlanta,Yes
+C00750,55-64,Male,Georgia,Atlanta,No
+C00751,65+,Female,California,San Francisco,No
+C00752,18-24,Male,New York,Albany,No
+C00753,18-24,Male,Oregon,Eugene,Yes
+C00754,18-24,Female,Illinois,Springfield,Yes
+C00755,18-24,Male,Texas,Dallas,Yes
+C00756,55-64,Female,Illinois,Chicago,No
+C00757,45-54,Female,Oregon,Bend,No
+C00758,18-24,Male,Texas,San Antonio,Yes
+C00759,55-64,Male,Florida,Orlando,No
+C00760,25-34,Female,Arizona,Tucson,No
+C00761,45-54,Male,Oregon,Bend,Yes
+C00762,18-24,Male,New York,Rochester,Yes
+C00763,18-24,Male,Georgia,Augusta,Yes
+C00764,55-64,Male,New York,Buffalo,Yes
+C00765,18-24,Male,Florida,Orlando,Yes
+C00766,25-34,Female,California,Los Angeles,Yes
+C00767,18-24,Female,Georgia,Savannah,No
+C00768,65+,Male,Oregon,Portland,Yes
+C00769,65+,Male,Illinois,Naperville,Yes
+C00770,35-44,Male,California,San Francisco,Yes
+C00771,45-54,Female,Oregon,Bend,No
+C00772,45-54,Male,Georgia,Savannah,No
+C00773,45-54,Female,Georgia,Columbus,No
+C00774,35-44,Male,Georgia,Augusta,Yes
+C00775,25-34,Male,Arizona,Flagstaff,No
+C00776,45-54,Female,New York,Buffalo,No
+C00777,65+,Female,Georgia,Augusta,Yes
+C00778,55-64,Male,Georgia,Augusta,Yes
+C00779,55-64,Female,Illinois,Springfield,Yes
+C00780,18-24,Female,Texas,Houston,Yes
+C00781,65+,Male,Oregon,Eugene,No
+C00782,18-24,Male,California,San Francisco,Yes
+C00783,45-54,Female,Florida,Jacksonville,Yes
+C00784,18-24,Female,Georgia,Augusta,Yes
+C00785,65+,Male,Illinois,Chicago,Yes
+C00786,25-34,Male,Arizona,Scottsdale,Yes
+C00787,18-24,Male,Georgia,Columbus,No
+C00788,65+,Female,Oregon,Eugene,Yes
+C00789,45-54,Male,New York,Buffalo,Yes
+C00790,18-24,Female,Illinois,Naperville,No
+C00791,45-54,Male,Illinois,Aurora,No
+C00792,55-64,Male,Florida,Orlando,No
+C00793,35-44,Male,California,San Francisco,No
+C00794,18-24,Female,Georgia,Columbus,Yes
+C00795,45-54,Male,Florida,Tampa,Yes
+C00796,18-24,Female,Arizona,Tucson,Yes
+C00797,45-54,Male,California,San Diego,No
+C00798,18-24,Female,California,San Francisco,Yes
+C00799,45-54,Female,California,San Diego,No
+C00800,35-44,Male,Oregon,Eugene,No
+C00801,65+,Male,California,San Francisco,No
+C00802,55-64,Male,Illinois,Naperville,Yes
+C00803,25-34,Male,New York,Rochester,Yes
+C00804,25-34,Female,Arizona,Flagstaff,No
+C00805,65+,Male,Texas,Houston,Yes
+C00806,65+,Female,Texas,Houston,Yes
+C00807,35-44,Female,Arizona,Tucson,Yes
+C00808,18-24,Female,Illinois,Aurora,No
+C00809,35-44,Female,Arizona,Tucson,Yes
+C00810,55-64,Male,Texas,Austin,Yes
+C00811,45-54,Female,New York,Buffalo,Yes
+C00812,18-24,Female,California,San Francisco,Yes
+C00813,18-24,Female,Illinois,Chicago,Yes
+C00814,65+,Female,California,Los Angeles,Yes
+C00815,25-34,Male,Illinois,Aurora,Yes
+C00816,65+,Female,Oregon,Bend,Yes
+C00817,45-54,Male,Georgia,Columbus,Yes
+C00818,25-34,Male,California,Los Angeles,Yes
+C00819,45-54,Female,Texas,San Antonio,No
+C00820,25-34,Male,New York,Buffalo,No
+C00821,45-54,Male,Oregon,Eugene,No
+C00822,18-24,Female,Illinois,Springfield,No
+C00823,35-44,Male,Arizona,Scottsdale,Yes
+C00824,55-64,Male,New York,Rochester,Yes
+C00825,35-44,Female,Arizona,Scottsdale,Yes
+C00826,18-24,Male,Georgia,Augusta,No
+C00827,18-24,Female,Arizona,Flagstaff,Yes
+C00828,25-34,Male,Florida,Orlando,Yes
+C00829,35-44,Female,California,San Francisco,Yes
+C00830,45-54,Female,Oregon,Salem,Yes
+C00831,45-54,Female,Arizona,Tucson,No
+C00832,55-64,Female,California,San Francisco,Yes
+C00833,35-44,Male,Georgia,Savannah,No
+C00834,45-54,Male,Texas,Houston,Yes
+C00835,25-34,Male,Texas,San Antonio,Yes
+C00836,65+,Male,Texas,Dallas,No
+C00837,65+,Male,Arizona,Scottsdale,Yes
+C00838,35-44,Male,California,Los Angeles,Yes
+C00839,25-34,Female,Oregon,Eugene,Yes
+C00840,55-64,Male,Oregon,Salem,Yes
+C00841,55-64,Male,Georgia,Columbus,No
+C00842,25-34,Female,Florida,Orlando,No
+C00843,55-64,Female,New York,Albany,Yes
+C00844,35-44,Male,New York,Buffalo,No
+C00845,45-54,Male,Texas,Houston,Yes
+C00846,35-44,Male,Florida,Miami,Yes
+C00847,18-24,Female,Oregon,Bend,Yes
+C00848,25-34,Male,Georgia,Atlanta,No
+C00849,55-64,Female,Florida,Tampa,Yes
+C00850,35-44,Female,Georgia,Atlanta,No
+C00851,25-34,Female,Illinois,Chicago,Yes
+C00852,45-54,Female,Illinois,Springfield,No
+C00853,45-54,Female,California,San Jose,Yes
+C00854,45-54,Female,Arizona,Scottsdale,No
+C00855,25-34,Female,Arizona,Scottsdale,No
+C00856,18-24,Male,Arizona,Phoenix,No
+C00857,18-24,Male,Florida,Orlando,Yes
+C00858,18-24,Female,Oregon,Bend,No
+C00859,25-34,Female,Arizona,Scottsdale,Yes
+C00860,35-44,Male,Georgia,Augusta,Yes
+C00861,45-54,Female,California,Los Angeles,No
+C00862,18-24,Female,New York,Buffalo,Yes
+C00863,25-34,Male,Texas,Austin,No
+C00864,65+,Male,New York,Rochester,Yes
+C00865,65+,Female,New York,Albany,No
+C00866,55-64,Male,Texas,Austin,Yes
+C00867,55-64,Female,California,San Jose,Yes
+C00868,45-54,Female,Illinois,Naperville,Yes
+C00869,65+,Male,New York,New York City,No
+C00870,55-64,Male,California,San Jose,Yes
+C00871,55-64,Female,Georgia,Atlanta,No
+C00872,55-64,Female,Arizona,Phoenix,No
+C00873,18-24,Male,Georgia,Columbus,No
+C00874,55-64,Male,Texas,Dallas,Yes
+C00875,45-54,Female,Oregon,Bend,Yes
+C00876,65+,Male,Illinois,Springfield,Yes
+C00877,35-44,Male,New York,Rochester,Yes
+C00878,35-44,Female,California,San Diego,Yes
+C00879,25-34,Female,Arizona,Flagstaff,Yes
+C00880,55-64,Female,California,San Diego,Yes
+C00881,18-24,Female,Texas,Dallas,Yes
+C00882,45-54,Female,Arizona,Phoenix,Yes
+C00883,65+,Female,Illinois,Aurora,Yes
+C00884,45-54,Male,Illinois,Chicago,No
+C00885,35-44,Female,California,Los Angeles,No
+C00886,35-44,Male,New York,Rochester,Yes
+C00887,18-24,Male,New York,New York City,Yes
+C00888,35-44,Male,Arizona,Flagstaff,No
+C00889,25-34,Male,Texas,Dallas,No
+C00890,65+,Male,California,Los Angeles,No
+C00891,35-44,Female,Illinois,Springfield,Yes
+C00892,25-34,Female,New York,Buffalo,No
+C00893,35-44,Male,Georgia,Savannah,Yes
+C00894,55-64,Male,Arizona,Phoenix,Yes
+C00895,35-44,Female,Florida,Jacksonville,No
+C00896,18-24,Male,Oregon,Eugene,Yes
+C00897,18-24,Male,New York,Rochester,No
+C00898,25-34,Male,Arizona,Phoenix,No
+C00899,25-34,Female,Illinois,Springfield,Yes
+C00900,25-34,Male,Arizona,Scottsdale,Yes
+C00901,18-24,Male,New York,Rochester,Yes
+C00902,45-54,Female,Florida,Miami,Yes
+C00903,18-24,Female,Texas,Dallas,No
+C00904,65+,Male,Texas,San Antonio,No
+C00905,25-34,Male,Florida,Miami,No
+C00906,35-44,Male,California,San Jose,Yes
+C00907,25-34,Male,Florida,Miami,No
+C00908,65+,Male,Georgia,Columbus,No
+C00909,18-24,Male,New York,New York City,Yes
+C00910,55-64,Male,Oregon,Eugene,No
+C00911,65+,Female,Illinois,Springfield,No
+C00912,35-44,Male,Texas,Austin,Yes
+C00913,18-24,Male,Arizona,Flagstaff,No
+C00914,65+,Female,Illinois,Chicago,Yes
+C00915,25-34,Female,New York,Albany,No
+C00916,45-54,Female,Oregon,Portland,No
+C00917,35-44,Male,California,San Jose,No
+C00918,65+,Male,Georgia,Savannah,Yes
+C00919,45-54,Male,Oregon,Salem,No
+C00920,18-24,Female,New York,New York City,Yes
+C00921,65+,Male,Florida,Tampa,Yes
+C00922,55-64,Male,Florida,Miami,No
+C00923,45-54,Male,Georgia,Savannah,Yes
+C00924,35-44,Female,Oregon,Eugene,No
+C00925,25-34,Female,Texas,Dallas,No
+C00926,25-34,Female,Illinois,Springfield,Yes
+C00927,25-34,Female,Texas,Dallas,Yes
+C00928,35-44,Male,Arizona,Flagstaff,Yes
+C00929,25-34,Male,Texas,Austin,Yes
+C00930,18-24,Female,California,San Jose,Yes
+C00931,45-54,Female,Arizona,Phoenix,No
+C00932,18-24,Female,New York,Albany,Yes
+C00933,65+,Female,Arizona,Phoenix,No
+C00934,65+,Male,Illinois,Naperville,No
+C00935,55-64,Male,Arizona,Tucson,Yes
+C00936,25-34,Male,California,San Francisco,Yes
+C00937,55-64,Female,Georgia,Columbus,No
+C00938,25-34,Female,Florida,Jacksonville,No
+C00939,45-54,Male,Oregon,Eugene,Yes
+C00940,25-34,Female,Georgia,Columbus,No
+C00941,35-44,Male,Illinois,Aurora,No
+C00942,65+,Male,Georgia,Savannah,Yes
+C00943,65+,Male,New York,Albany,No
+C00944,25-34,Male,Texas,San Antonio,No
+C00945,45-54,Male,Florida,Jacksonville,No
+C00946,18-24,Female,New York,Buffalo,No
+C00947,25-34,Male,Oregon,Salem,No
+C00948,35-44,Male,Arizona,Phoenix,Yes
+C00949,65+,Male,Oregon,Eugene,No
+C00950,35-44,Male,New York,Rochester,Yes
+C00951,65+,Male,Arizona,Tucson,Yes
+C00952,65+,Female,Florida,Orlando,Yes
+C00953,45-54,Female,Arizona,Tucson,Yes
+C00954,18-24,Female,Texas,Austin,No
+C00955,25-34,Male,Oregon,Bend,Yes
+C00956,18-24,Female,New York,Buffalo,Yes
+C00957,55-64,Male,Georgia,Augusta,No
+C00958,65+,Male,Texas,Austin,No
+C00959,18-24,Male,Georgia,Augusta,No
+C00960,25-34,Male,California,Los Angeles,No
+C00961,65+,Male,Texas,Austin,Yes
+C00962,18-24,Female,California,Los Angeles,No
+C00963,35-44,Male,New York,New York City,No
+C00964,65+,Male,California,San Jose,No
+C00965,25-34,Male,Oregon,Salem,No
+C00966,35-44,Female,Arizona,Phoenix,No
+C00967,45-54,Female,Illinois,Chicago,Yes
+C00968,35-44,Male,Arizona,Tucson,No
+C00969,18-24,Female,Illinois,Aurora,Yes
+C00970,18-24,Female,Texas,Houston,Yes
+C00971,65+,Female,Florida,Miami,Yes
+C00972,55-64,Male,California,San Jose,Yes
+C00973,55-64,Male,Texas,San Antonio,No
+C00974,25-34,Male,Georgia,Savannah,No
+C00975,65+,Female,Illinois,Naperville,No
+C00976,18-24,Male,Georgia,Savannah,No
+C00977,65+,Male,Oregon,Salem,Yes
+C00978,45-54,Male,New York,New York City,No
+C00979,65+,Female,Oregon,Salem,No
+C00980,35-44,Female,Florida,Miami,No
+C00981,55-64,Male,Arizona,Tucson,Yes
+C00982,65+,Female,Arizona,Scottsdale,No
+C00983,45-54,Male,New York,Buffalo,No
+C00984,65+,Female,Arizona,Scottsdale,No
+C00985,35-44,Female,Georgia,Savannah,Yes
+C00986,55-64,Male,California,San Francisco,Yes
+C00987,45-54,Male,Oregon,Eugene,Yes
+C00988,25-34,Male,California,San Diego,No
+C00989,35-44,Male,California,San Francisco,No
+C00990,45-54,Male,Illinois,Chicago,Yes
+C00991,25-34,Female,Illinois,Springfield,No
+C00992,65+,Female,Arizona,Flagstaff,No
+C00993,35-44,Male,Texas,Houston,No
+C00994,55-64,Female,Arizona,Tucson,Yes
+C00995,45-54,Male,Georgia,Columbus,Yes
+C00996,45-54,Male,New York,Albany,No
+C00997,45-54,Male,Florida,Miami,No
+C00998,45-54,Female,New York,Buffalo,Yes
+C00999,65+,Male,Oregon,Eugene,Yes
+C01000,55-64,Male,California,San Diego,Yes
